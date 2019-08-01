@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Senjata</string>
+    <string name="nama_senjata">F2000 Assault Rifle</string>
+    <string name="harga">Rp 33.000.000,00</string>
+    <string name="penjelasan">F2000 Assault Rifle termasuk dalam salah satu senjata paling berbahaya di dunia yang dikembangkan oleh perusahaan Belgia, FN Herstal. Pada tahun 2001, senjata ini pertama kali ditampilkan di Abu Dhabi pada sebuah pameran pertahanan IDEX. F2000 ini memiliki handguard yang dapat dilepas di depan pelatuk, memiliki kaliber 5.56mm dan jangkauan hingga 500 meter. Selain itu F2000 dapat membuat 850 putaran dalam satu menit.</string>
+    <string name="photos">6 Photos</string>
+    <string name="fitur">Senapan tidak memiliki perangkat hold-open; baut tidak tinggal kembali setelah putaran terakhir dipecat. Pegangan cocking ditempatkan di sisi kiri penerima, tepat di atas handguard, dan dapat dioperasikan oleh penembak kidal. Tidak ada titik akses untuk kemungkinan masuknya kotoran atau puing; slot pegangan cocking disegel.</string>
+    <string name="stok">Tersedia 50 buah</string>
+    <string name="fitur2">Penglihatan utama senjata adalah penglihatan teleskopik dengan perbesaran 1,6 × tetap (reticle juga memungkinkan penggunaan dalam kondisi cahaya rendah) yang terkandung dalam wadah plastik di atas penerima (dipasang pada rel MIL-STD-1913), penglihatan sekunder adalah lekukan tetap dan bilah depan yang tidak dapat disetel, dibentuk pada penutup housing penglihatan optik. Modul penglihatan dan penglihatan dapat dengan cepat dilepas untuk membuka rel Picatinny.</string>
+    <string name="fitur3">Laras baja tempa palu rifle senapan dinyatakan untuk mempertahankan akurasi setelah 20.000 putaran normal (tidak berkelanjutan). Laras ini juga dilengkapi penekan flash dengan potongan miring di ujungnya yang mengarahkan moncong ledakan ke atas, mengimbangi kenaikan moncong. F2000 memiliki penutup bayonet opsional yang dipasang di dekat moncong, dan regulator gas yang dapat disesuaikan dengan dua pengaturan: "normal" untuk amunisi standar yang memenuhi spesifikasi NATO, dan "merugikan" - digunakan untuk mengirim volume gas yang meningkat ke sistem untuk memastikan kesesuaian berfungsi saat kotor atau saat menggunakan amunisi bertekanan rendah.</string>
+    <string name="battery">Battery</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="nama_penjual">SehatCuk</string>
+    <string name="beli">Beli</string>
+</resources>
